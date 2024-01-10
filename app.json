@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "myappnav-xiirpl541211120-m-zidane-radin-daffa",
+    "slug": "snack-3b2677e7-1dc0-448c-b46e-79ce7641de0f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4575cb41-3527-4479-8e79-0eb7bb33ae52"
+      }
+    }
+  }
+}
