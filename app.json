@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.zdaffa.snack3b2677e71dc0448cb46e79ce7641de0f"
     },
     "web": {
       "favicon": "./assets/favicon.png"
